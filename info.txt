@@ -1,0 +1,7 @@
+                    javaScript has below collections
+               1-Array
+               2-Object
+               3-Map
+               4-set
+               5-HTMLCollection
+               6-NodeList
